@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.899,=D:\ООП Лаба 2\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.867,D:\ООП Лаба 2\Unit1.pas=D:\ООП Лаба 2\Serializer.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.954,=D:\ООП Лаба 2\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.756,=D:\ООП Лаба 1\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.377,D:\ООП Лаба 1\OOP_1.pas=D:\ООП Лабы\OOP_1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.711,D:\ООП Лаба 2\Unit1.pas=D:\ООП Лаба 2\TJewelryProduct.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.932,=C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\System.Runtime.Serialization.Formatters.Soap.dll</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.839,D:\ООП Лаба 1\OOP_Factory.pas=D:\ООП Лаба 1\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.849,D:\ООП Лаба 1\OOP_1_Project.dproj=D:\ООП Лабы\OOP_1_Project.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.521,D:\ООП Лаба 2\Unit1.pas=D:\ООП Лаба 2\BinarySerialization.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.435,=D:\ООП Лаба 2\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.377,D:\ООП Лаба 1\OOP_1.dfm=D:\ООП Лабы\OOP_1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
